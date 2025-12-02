@@ -1,0 +1,8 @@
+{
+  "Mailcow": {
+    "BaseUrl": "https://mail.example.com",
+    "ApiKey": "YOUR_API_KEY",
+    "UserAgent": "ZPMLabs-MailcowClient/1.0",
+    "TimeoutSeconds": 30
+  }
+}
